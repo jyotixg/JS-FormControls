@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 100px;
+    background: #29244C;
+    
+}
+.main{
+    display: flex;
+    /* align-items: center; */
+}
+.heading{
+    color: white;
+    text-align: center;
+}
+.select{
+    height: 30px !important;
+}
+#rightdiv{
+    /* border: 2px solid black; */
+    width: 700px;
+    padding: 20px;
+    margin-left: 50px;
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* background: rgba(41, 36, 76, 0.451); */
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    color: white;
+    text-transform: capitalize;
+}
+.add-btn{
+    border: none;
+    color: #29244C;
+    background: white;
+    padding: 5px;
+    width: 50px;
+    border-radius: 30px;
+    margin-left: 20px;
+    height: 30px;
+}
+
+#left-div{
+    /* border: 1px solid green; */
+    /* padding: 10px; */
+    width: 50%;
+}
+#right-div{
+    /* border: 1px solid yellow; */
+    /* padding: 10px; */
+    width: 50%;
+}
+
+
+
+/* js ka css */
+#left1{
+    /* border: 1px solid red; */
+    /* padding: 5px; */
+    height: 40px;
+}
+#right1{
+    /* border: 1px solid blue; */
+    height: 40px;
+
+    /* padding: 5px;    */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+}
+.hgt{
+    height: 70px;
+    padding: 10px 0;
+}
+#submit-btn{
+    margin-top: 15px;
+}
+/* #hideX{
+    display: none;
+} */
+/* input{
+    margin: 10px 5px;
+    padding: 5px;
+}
+button{
+    border-radius: 14px;
+    border: none;
+    color: #29244C;
+    font-weight: 500;
+    background-color: white;
+    padding: 5px;
+    width: 50px;
+} */
+
+.bottomdiv{
+    padding: 10px;
+    display: flex;
+    margin-top: 40px;
+}
+#bottomleft{
+    /* border: 2px solid pink; */
+    background: #6F6795;
+    padding: 10px;
+    width: 37%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 65px 25px 28px;
+
+}
+
+#bottomright{
+    /* border: 2px solid blue; */
+    background: #6F6795;
+    padding: 10px;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 65px 25px 28px;
+    margin: 0 20px;
+}
+
+
+
+
+
+
